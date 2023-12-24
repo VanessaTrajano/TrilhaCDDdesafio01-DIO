@@ -116,3 +116,22 @@
   color: #33a8db;
   margin-right: 3px;
 }
+
+#transform-world{
+  background-image: url("../images/woman-code.png");
+  background-size: 100% 100vh;
+  background-attachment: fixed;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  padding-left: 15%;
+}
+
+#transform-world p{
+  font-family: "Raleway";
+  font-weight: 900;
+  font-size: 5vh;
+  width: 17%;
+  text-transform: lowercase;
+  text-shadow: 4px 2.4px #33A8DB;
+}
